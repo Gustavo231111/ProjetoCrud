@@ -1,7 +1,7 @@
 
 # ☺ Autor: Gustavo Accadrolli Farias
 
-#✎ Projeto CRUD em Java (Cliente + Usuário)
+# ✎ Projeto CRUD em Java (Cliente + Usuário)
 
 Este projeto é um exemplo didático de aplicação **Java Desktop (Swing)** com **2 CRUDs**:
 - **Usuário** (com autenticação via BCrypt)
